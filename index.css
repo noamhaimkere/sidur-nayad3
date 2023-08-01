@@ -1,0 +1,26 @@
+
+    
+.background-image {
+    background-image: url('k.jpg');
+    background-position: center;
+    width: 1700px;
+    height: 1000px;
+}
+h1 {
+    font-size: 3em;
+    /* גודל גופן בגודל ה-1.5 מפעילי הרגיל */
+}
+ז
+p {
+    font-size: 200%;
+    /* גודל גופן ב-120% מגודל הרגיל */
+}
+h3{
+    font-size: 2em;
+}
+h5{
+    font-size: 2em;
+}
+.background-image {
+    background-sound: url('KATORET.aac');
+}
